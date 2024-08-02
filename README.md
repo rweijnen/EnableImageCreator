@@ -41,3 +41,9 @@ Then I used the search option in dnSpyEx and searched for `ImageCreator`:
 ![dnSpyEx Search Results)](assets/dnSpyEx02.png)
 
 So that makes it clear that the region check is inside `PaintUI.dll` 
+
+![Under Construction](assets/UnderConstruction.png)
+
+Note, this readme file is not yet finished so please come back later, or if you cannot wait then download the PowerShell script that enables Image Creator [here](EnableImageCreator.ps1).
+
+
